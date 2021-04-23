@@ -1,4 +1,5 @@
 # RESTAURANT DOCKER EXAMPLE
+[![Build Status](https://travis-ci.com/kepiros/restaurant-rest.svg?branch=master)](https://travis-ci.com/kepiros/restaurant-rest)
 
 ## For build
 `docker build -t existmaster/restaurant-rest .`
